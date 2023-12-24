@@ -1,0 +1,6 @@
+- `kind` - The type of object being defined
+- `apiVersion` - Schema version to use when calling the object. Usually `v1`
+	- Normal format is `<api-group>/<version>` except for Pods
+		- Pods are in a special group called `core`
+- `metadata` - Names, labels, annotations and Namespaces
+- `spec` - Defines the container

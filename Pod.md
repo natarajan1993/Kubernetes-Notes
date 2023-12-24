@@ -111,3 +111,24 @@ spec:
 - DON'T add or remove containers in a Pod
 
 ### Multi Container Pods
+- Each container in the Pod should ideally have one responsibility
+- We only put multiple containers in the same Pod if they are tightly coupled
+#### Patterns
+##### Sidecar pattern
+- Main app container and a `sidecar` container
+- The sidecar container performs a secondary task to the main container
+- Used mainly with [[Service Mesh]] 
+##### Adapter pattern
+- Variation of sidecar pattern
+- Helper container takes output from the main container and modifies it for external systems
+- **Example** NGINX logs being modified for external log consumers
+##### Ambassador pattern
+- The helper container is used for connecting the main container to an external system
+##### Init pattern
+- The helper container starts and completes before the main container starts
+- Used mainly to setup the runtime for the main container
+
+### Hostnames
+- Every container in a Pod inherits its hostname from the name of the Pod
+	- It is set in the `name` attribute in the [[Pod Manifest]]
+	- 
