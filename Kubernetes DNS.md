@@ -1,0 +1,2 @@
+- Every Kubernetes cluster has an internal DNS service
+- Every pod has a hardcoded internal IP address that makes it discoverable on the internal network
