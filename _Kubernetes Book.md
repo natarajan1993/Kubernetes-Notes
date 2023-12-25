@@ -2,6 +2,7 @@
 [[Chapter 2 - Principles of Operation]]
 [[Chapter 3 - Getting Kubernetes]]
 [[Chapter 4 - Working with Pods]]
-
+Chapter 5 - [[Namespaces]]
+Chapter 6 - [[Deployment|Deployments]]
 
 [[Common Commands]]

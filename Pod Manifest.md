@@ -4,3 +4,6 @@
 		- Pods are in a special group called `core`
 - `metadata` - Names, labels, annotations and Namespaces
 - `spec` - Defines the container
+- `initContainers`
+	- Applies the [[Pod#Init pattern]] 
+- 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Commands.md",
+                "file": "ReplicaSet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd4a7143d5378aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Kubernetes Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pod Manifest.md",
+                "file": "Pod.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "--record",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Commands.md",
+                "file": "_Kubernetes Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Commands.md",
+                "file": "_Kubernetes Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Commands.md"
+                "file": "_Kubernetes Book.md"
               }
             }
           }
@@ -158,23 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f0ad37f30019061",
+  "active": "dd4a7143d5378aa5",
   "lastOpenFiles": [
-    "Pod.md",
+    "Chapter 4 - Working with Pods.md",
+    "Deployment.md",
     "Common Commands.md",
-    "Cluster.md",
+    "Pasted image 20231225091720.png",
+    "ReplicaSet.md",
     "Pod Manifest.md",
+    "Images/Pasted image 20231224164831.png",
+    "Images/Pasted image 20231224165558.png",
+    "minikube.md",
+    "Services.md",
+    "Pod.md",
+    "Probes.md",
+    "Namespaces.md",
+    "Cluster.md",
     "kubectl.md",
     "_Kubernetes Book.md",
     "Images/Pasted image 20231224073734.png",
     "Node.md",
     "Kubernetes-Notes/LICENSE",
     "Kubernetes-Notes",
-    "Deployment.md",
     "StatefulSets.md",
     "StatefulSet.md",
     "Images/Pasted image 20231224074102.png",
-    "Chapter 4 - Working with Pods.md",
     "Controllers.md",
     "Pods.md",
     "Cluster Store.md",
