@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9415f4960f496602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Kubernetes Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd4a7143d5378aa5",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Commands.md",
+                "file": "_Kubernetes Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Commands.md",
+                "file": "_Kubernetes Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Commands.md"
+                "file": "_Kubernetes Book.md"
               }
             }
           }
@@ -170,12 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28eeffb8315f65a8",
+  "active": "9415f4960f496602",
   "lastOpenFiles": [
+    "Ingress.md",
+    "Pasted image 20231226150350.png",
+    "Pasted image 20231226145726.png",
+    "Common Commands.md",
     "Services.md",
     "Endpoint.md",
     "minikube.md",
-    "Common Commands.md",
     "ClusterIP.md",
     "Deployment.md",
     "ReplicaSet.md",
@@ -203,7 +219,6 @@
     "Pods.md",
     "Cluster Store.md",
     "API Server.md",
-    "Affinity.md",
-    "Controller Manager.md"
+    "Affinity.md"
   ]
 }
