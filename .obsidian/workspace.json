@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReplicaSet.md",
+                "file": "Common Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Kubernetes Book.md",
+                "file": "minikube.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Kubernetes Book.md",
+                "file": "Common Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Kubernetes Book.md",
+                "file": "Common Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Kubernetes Book.md"
+                "file": "Common Commands.md"
               }
             }
           }
@@ -171,37 +170,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd4a7143d5378aa5",
+  "active": "28eeffb8315f65a8",
   "lastOpenFiles": [
-    "Chapter 4 - Working with Pods.md",
-    "Deployment.md",
+    "Services.md",
+    "Endpoint.md",
+    "minikube.md",
     "Common Commands.md",
-    "Pasted image 20231225091720.png",
+    "ClusterIP.md",
+    "Deployment.md",
     "ReplicaSet.md",
+    "Namespaces.md",
+    "CronJobs.md",
+    "Controllers.md",
+    "Pod.md",
+    "Node.md",
+    "Images/Pasted image 20231225091720.png",
+    "Images/Pasted image 20231225122710.png",
+    "_Kubernetes Book.md",
+    "Chapter 4 - Working with Pods.md",
     "Pod Manifest.md",
     "Images/Pasted image 20231224164831.png",
     "Images/Pasted image 20231224165558.png",
-    "minikube.md",
-    "Services.md",
-    "Pod.md",
     "Probes.md",
-    "Namespaces.md",
     "Cluster.md",
     "kubectl.md",
-    "_Kubernetes Book.md",
     "Images/Pasted image 20231224073734.png",
-    "Node.md",
     "Kubernetes-Notes/LICENSE",
     "Kubernetes-Notes",
     "StatefulSets.md",
     "StatefulSet.md",
     "Images/Pasted image 20231224074102.png",
-    "Controllers.md",
     "Pods.md",
     "Cluster Store.md",
     "API Server.md",
     "Affinity.md",
-    "CronJobs.md",
     "Controller Manager.md"
   ]
 }

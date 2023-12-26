@@ -50,6 +50,7 @@
 - `kubectl delete svc <service_name>`
 - Can also use the `-f` flag to delete everything in a [[Pod Manifest]]
 	- `kubectl delete -f <mainfest_name>.yml`
+	- You can also chain multiple files in the same command like `kubectl delete -f deploy.yml -f svc.yml -f other.yml`
 
 #### `scale`
 - Use to scale the number of `Replicas` in the [[Deployment]]
@@ -63,5 +64,9 @@
 - `kubectl rollout pause deployment <deploy_name>` - pauses the current deploy
 - `kubectl rollout resume deployment <deploy_name>` - resumes the current deploy
 - `kubectl rollout history deployment <deploy_name>`
+#### `expose`
+- Takes an object like a [[Deployment]] and exposes it as a [[Services|Service]]
+`kubectl expose deployment <deployment_name> --type=NodePort`
+
 ## minikube
-`minikube start - vm-driver kvm2` - Start the minikube cluster
+`minikube start - vm-driver kvm2` - Start the `minikube` cluster
