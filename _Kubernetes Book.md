@@ -6,5 +6,6 @@ Chapter 5 - [[Namespaces]]
 Chapter 6 - [[Deployment|Deployments]]
 Chapter 7 - [[Services]]
 Chapter 8 - [[Ingress]]
+Chapter 9 - [[Service Discovery]]
 
 [[Common Commands]]

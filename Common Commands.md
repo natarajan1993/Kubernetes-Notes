@@ -3,12 +3,14 @@
 `kubectl version --output=yaml`
 `kubectl get nodes` - This should get the list of clusters on the device
 - `-o wide` gives a couple more columns but is still a single line of output
-• `-o yaml` takes things to the next level, returning a full copy of the Pod from the cluster store.
+• `-o yaml` takes things to the next level, returning a full copy of the Pod from the 
+cluster store.
 `kubectl get pods`
 - `namespaces` - Used to describe [[Namespaces]]
 	- Aliased as `ns`
 	- `kubectl describe ns default`
 - `replicasets` or `rs` - Alias for [[ReplicaSet|ReplicaSets]]
+- `all --namespace <namespace>` get all objects inside the [[Namespaces|Namespace]]
 `kubectl describe`
 - `kubectl describe pods hello-pod`
 - `kubectl describe deploy <deployment_name>` 
@@ -70,3 +72,4 @@
 
 ## minikube
 `minikube start - vm-driver kvm2` - Start the `minikube` cluster
+`minikube tunnel` - Exposes your services on localhost

@@ -1,0 +1,5 @@
+- ClusterIP is a type of Service object that has an IP accessible only from **inside** the Cluster
+- Provides a stable IP address for a [[Services|Service]]
+- They exist on a special network called the `service network` that does not have any routes to it
+- All ClusterIP traffic is sent to their `default gateway`
+	- Default gateways are where traffic goes to when there is no known route
