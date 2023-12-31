@@ -7,5 +7,6 @@ Chapter 6 - [[Deployment|Deployments]]
 Chapter 7 - [[Services]]
 Chapter 8 - [[Ingress]]
 Chapter 9 - [[Service Discovery]]
+Chapter 10 - [[Kubernetes Storage]]
 
 [[Common Commands]]

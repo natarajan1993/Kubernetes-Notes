@@ -21,6 +21,9 @@ cluster store.
 `kubeadm init` - Initialize a K8 [[Cluster]]
 - A `kubectl` context is a bunch of settings that tells `kubectl` which cluster to send commands to, and which credentials to authenticate with
 
+`kubectl api-resources`
+- Lists all API resources and their shortnames
+
 #### `config`
 `kubectl config set-context --current --namespace <ns_name>` - Set the default [[Namespaces|Namespace]] 
 `kubectl config view` - View the current config file

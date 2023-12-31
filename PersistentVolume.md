@@ -1,0 +1,6 @@
+---
+aliases:
+  - PersistentVolumes
+  - PVs
+  - PV
+---

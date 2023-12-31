@@ -1,0 +1,6 @@
+---
+aliases:
+  - PersistentVolumeClaims
+  - PVC
+  - PVCs
+---
