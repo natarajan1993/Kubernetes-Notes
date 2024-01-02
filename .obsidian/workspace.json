@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "08ffba65a7374046",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240101071137.png"
+              }
+            }
+          },
+          {
             "id": "36bb8d9ce0f9f3b6",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Kubernetes Book.md",
+                "file": "Images/Pasted image 20240101071137.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Kubernetes Book.md",
+                "file": "Images/Pasted image 20240101071137.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Kubernetes Book.md"
+                "file": "Images/Pasted image 20240101071137.png"
               }
             }
           }
@@ -171,18 +182,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9415f4960f496602",
+  "active": "5f0ad37f30019061",
   "lastOpenFiles": [
+    "Secret.md",
+    "Images/Pasted image 20240101073737.png",
+    "ConfigMap.md",
     "Kubernetes Storage.md",
+    "PersistentVolumeClaim.md",
+    "PersistentVolume.md",
     "StorageClass.md",
-    "Pod.md",
+    "Images/Pasted image 20240101071137.png",
     "Common Commands.md",
+    "_Kubernetes Book.md",
+    "Pod.md",
     "Images/Pasted image 20231231132019.png",
     "StorageClasses.md",
     "ClusterIP.md",
-    "_Kubernetes Book.md",
-    "PersistentVolume.md",
-    "PersistentVolumeClaim.md",
     "Service Discovery.md",
     "Images/Pasted image 20231231132914.png",
     "Images/Pasted image 20231231082718.png",
@@ -203,12 +218,8 @@
     "CronJobs.md",
     "Controllers.md",
     "Node.md",
-    "Images/Pasted image 20231225091720.png",
-    "Images/Pasted image 20231225122710.png",
     "Chapter 4 - Working with Pods.md",
     "Pod Manifest.md",
-    "Probes.md",
-    "Cluster.md",
     "Kubernetes-Notes/LICENSE",
     "Kubernetes-Notes"
   ]

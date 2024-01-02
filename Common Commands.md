@@ -40,6 +40,7 @@ cluster store.
 #### `exec` - Runs commands inside a Pod
 `kubectl exec` 
 - `kubectl exec hello-pod -- ps aux`
+	- Use the `--` and run any linux command after that
 - `kubectl exec -it <pod_name> -- /bin/bash` - Runs an interactive terminal inside a pod
 - K8 uses the `apk` package manager - Alpine Package Keeper
 	- User `apk add <package_name>` to install
