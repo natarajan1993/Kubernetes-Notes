@@ -8,5 +8,6 @@ Chapter 7 - [[Services]]
 Chapter 8 - [[Ingress]]
 Chapter 9 - [[Service Discovery]]
 Chapter 10 - [[Kubernetes Storage]]
+Chapter 11 - [[StatefulSets|StatefulSet]]
 
 [[Common Commands]]

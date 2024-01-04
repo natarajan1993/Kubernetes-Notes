@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Kubernetes Book.md",
+                "file": "StorageClass.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "08ffba65a7374046",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240101071137.png"
               }
             }
           },
@@ -35,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad67ae42c8837fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StorageClass.md",
+                "file": "StatefulSets.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240101071137.png",
+                "file": "StatefulSets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240101071137.png",
+                "file": "StatefulSets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +133,12 @@
             }
           },
           {
-            "id": "1be13c0d68efe31c",
+            "id": "67520a4a8ae114ae",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240101071137.png"
+                "file": "StatefulSets.md"
               }
             }
           }
@@ -168,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -182,44 +160,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f0ad37f30019061",
+  "active": "36bb8d9ce0f9f3b6",
   "lastOpenFiles": [
+    "minikube.md",
+    "StatefulSets.md",
+    "StorageClass.md",
+    "_Kubernetes Book.md",
+    "ClusterIP.md",
+    "Services.md",
+    "LoadBalancer.md",
+    "Control Planes.md",
+    "Ingress.md",
+    "Deployment.md",
+    "Common Commands.md",
+    "StatefulSet.md",
+    "Images/Pasted image 20240101071137.png",
     "Secret.md",
     "Images/Pasted image 20240101073737.png",
     "ConfigMap.md",
     "Kubernetes Storage.md",
     "PersistentVolumeClaim.md",
     "PersistentVolume.md",
-    "StorageClass.md",
-    "Images/Pasted image 20240101071137.png",
-    "Common Commands.md",
-    "_Kubernetes Book.md",
     "Pod.md",
     "Images/Pasted image 20231231132019.png",
     "StorageClasses.md",
-    "ClusterIP.md",
     "Service Discovery.md",
     "Images/Pasted image 20231231132914.png",
     "Images/Pasted image 20231231082718.png",
     "Endpoint.md",
     "Images/Pasted image 20231231083412.png",
-    "minikube.md",
-    "Services.md",
     "Images/Pasted image 20231226145726.png",
     "Images/Pasted image 20231231071841.png",
     "kubectl.md",
     "Images/Pasted image 20231230192602.png",
     "Untitled",
-    "Ingress.md",
     "Images/Pasted image 20231226150350.png",
-    "Deployment.md",
     "ReplicaSet.md",
     "Namespaces.md",
     "CronJobs.md",
     "Controllers.md",
-    "Node.md",
-    "Chapter 4 - Working with Pods.md",
-    "Pod Manifest.md",
     "Kubernetes-Notes/LICENSE",
     "Kubernetes-Notes"
   ]

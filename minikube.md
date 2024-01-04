@@ -6,3 +6,4 @@
 ## [[Common Commands]]
 `minikube service <service_name> --url` - Get the url for the service and use this to open the app in the web browser
 `minikube service --all` - Get all [[Services]] running in the `minikube` Cluster
+`minikube start - vm-driver kvm2` start minikube on Manjaro
